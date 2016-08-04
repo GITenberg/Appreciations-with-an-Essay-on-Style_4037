@@ -1,0 +1,33 @@
+_repo: Appreciations-with-an-Essay-on-Style_4037
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pater, Walter
+    aliases:
+    - Pater, Walter H. (Walter Horatio)
+    - Pater, Walter Horatio
+    birthdate: 1839
+    deathdate: 1894
+    gutenberg_agent_id: '1367'
+    url: http://www.gutenberg.org/2009/agents/1367
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Pater
+description: Unaccented version in 7awae10.txt and 7awae10.zip, accented versions
+  in 8awae10.txt and 8awae10.zip
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Style, Literary'
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Style -- Wordsworth -- Coleridge -- Charles Lamb -- Sir Thomas Browne
+  -- "Love's labours lost -- "Measure for measure." -- Shakespeare's English kings
+  -- Dante Gabriel Rossetti -- Feuillet's "La morte" -- Postscript.
+title: Appreciations, with an Essay on Style
+url: http://www.gutenberg.org/ebooks/4037
